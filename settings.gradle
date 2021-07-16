@@ -1,0 +1,2 @@
+rootProject.name = "DataBindingDemo2"
+include ':app'
